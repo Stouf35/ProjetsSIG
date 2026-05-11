@@ -26,9 +26,9 @@ Données représentées :
 
 ## Fichiers
 
-* 'exports/mobilites35.svg' - Version vectorielle du projet, modifiable sous inkscape
-* 'exports/mobilites35.png' - Version image du projet pour une meilleure visualisation sur GitHub
-* 'mobilites35.qgz' - Projet QGIS sur les transports en commun à Rennes
+- 'exports/mobilites35.svg' - Version vectorielle du projet, modifiable sous inkscape
+- 'exports/mobilites35.png' - Version image du projet pour une meilleure visualisation sur GitHub
+- 'mobilites35.qgz' - Projet QGIS sur les transports en commun à Rennes
 
 > Les couches sources (fichiers `.shp` ne sont pas versionnées en raison de leurs tailles.
 > Voir les sources ci-dessous pour les télécharger.
