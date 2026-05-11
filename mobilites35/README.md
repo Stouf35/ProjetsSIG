@@ -37,3 +37,5 @@ Données représentées :
 
 Toutes les données ont été récupérées sur la plateforme de données de Rennes métropole :
 (https://data.rennesmetropole.fr)
+* Limites communales de Rennes Métropole
+* Vélos en libre-srevice du STAR
