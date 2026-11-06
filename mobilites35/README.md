@@ -3,9 +3,9 @@
 ![Aperçu de la carte](exports/velos_libre_service_rennes.png)
 
 Projet sur les mobilités douces à Rennes.
-*Dans un premier temps, visualisation cartographique des stations vélos de la STAR à Rennes Métropole. Deux pistes d'évolution : 
-- Compléter associer cette représentation avec les transports en commun et les parkings vélo fermés a minima.
-- Se centrer sur le thème vélo et visualiser les aménagements pour la circulation à vélo*
+*Dans un premier temps, visualisation cartographique des stations vélos de la STAR à Rennes Métropole. Deux pistes d'évolution : *
+*- Compléter associer cette représentation avec les transports en commun et les parkings vélo fermés a minima.*
+*- Se centrer sur le thème vélo et visualiser les aménagements pour la circulation à vélo*
 
 Données représentées :
 - Localisations des stations vélos sur la métropole
